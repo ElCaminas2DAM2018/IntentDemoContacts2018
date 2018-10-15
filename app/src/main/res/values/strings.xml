@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentDemoContacts2018</string>
+    <string name="start_browser">Start Browser</string>
+    <string name="start_phone">Start Phone</string>
+    <string name="select">Select contact</string>
+    <string name="dial">Dial</string>
+</resources>
